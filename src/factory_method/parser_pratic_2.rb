@@ -40,13 +40,3 @@ end
 parser_example = ParserFactory.get_parser('csv')
 parser_example.parser('exemplo.csv')
 
-
-
-
-
-
-
-
-
-
-
