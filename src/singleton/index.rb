@@ -1,5 +1,5 @@
 class Singleton
-  @intance = new
+  @instance = new
 
   private_class_method :new
 
